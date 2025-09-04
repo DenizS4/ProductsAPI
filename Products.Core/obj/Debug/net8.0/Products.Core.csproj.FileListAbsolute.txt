@@ -1,0 +1,13 @@
+C:\Users\deniz.sanli\RiderProjects\ProductsAPI\Products.Core\bin\Debug\net8.0\Products.Core.deps.json
+C:\Users\deniz.sanli\RiderProjects\ProductsAPI\Products.Core\bin\Debug\net8.0\Products.Core.dll
+C:\Users\deniz.sanli\RiderProjects\ProductsAPI\Products.Core\bin\Debug\net8.0\Products.Core.pdb
+C:\Users\deniz.sanli\RiderProjects\ProductsAPI\Products.Core\obj\Debug\net8.0\Products.Core.csproj.AssemblyReference.cache
+C:\Users\deniz.sanli\RiderProjects\ProductsAPI\Products.Core\obj\Debug\net8.0\Products.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz.sanli\RiderProjects\ProductsAPI\Products.Core\obj\Debug\net8.0\Products.Core.AssemblyInfoInputs.cache
+C:\Users\deniz.sanli\RiderProjects\ProductsAPI\Products.Core\obj\Debug\net8.0\Products.Core.AssemblyInfo.cs
+C:\Users\deniz.sanli\RiderProjects\ProductsAPI\Products.Core\obj\Debug\net8.0\Products.Core.csproj.CoreCompileInputs.cache
+C:\Users\deniz.sanli\RiderProjects\ProductsAPI\Products.Core\obj\Debug\net8.0\Products.Core.sourcelink.json
+C:\Users\deniz.sanli\RiderProjects\ProductsAPI\Products.Core\obj\Debug\net8.0\Products.Core.dll
+C:\Users\deniz.sanli\RiderProjects\ProductsAPI\Products.Core\obj\Debug\net8.0\refint\Products.Core.dll
+C:\Users\deniz.sanli\RiderProjects\ProductsAPI\Products.Core\obj\Debug\net8.0\Products.Core.pdb
+C:\Users\deniz.sanli\RiderProjects\ProductsAPI\Products.Core\obj\Debug\net8.0\ref\Products.Core.dll

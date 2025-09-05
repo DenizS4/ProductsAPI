@@ -1,9 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Products.Core.DTO;
-using Products.Core.Entities;
 using Products.Core.Interfaces;
 
-namespace ECommerce.API.Controllers;
+namespace ProductsAPI.Controllers;
 [Route("api/[controller]")]
 [ApiController]
 public class ProductsController :Controller
